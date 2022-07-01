@@ -1,7 +1,7 @@
 export const menuitems = [
     {
         title: 'Home',
-        link: '/'
+        link: '/aboutme'
     },
     {
         title: 'Computer Science',
