@@ -16,7 +16,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<App />} />
+        <Route path='/aboutme' element={<App />} />
         <Route path='/Computer-Science' element={<ComputerScience />} />
         <Route path='/Dance' element={<Dance/>} />
         <Route path='/Alpha-Omega-Epsilon' element={<AlphaOmegaEpsilon />} />
