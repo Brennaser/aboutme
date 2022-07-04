@@ -54,7 +54,12 @@ html {
 }
 
 .navigation img {
-  height: 85px;
+  height: 80px;
+  padding: 0 2%;
+}
+
+ul.menus {
+  padding: 0;
 }
 
 .menus {
