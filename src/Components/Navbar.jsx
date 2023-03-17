@@ -1,6 +1,6 @@
 import { menuitems } from "../menuitems";
 import { Link } from "react-router-dom";
-import DCS from '../Dance-CompSci-logo.svg';
+// import DCS from '../Dance-CompSci-logo.svg';
 
 
 export const Navbar = () => {
