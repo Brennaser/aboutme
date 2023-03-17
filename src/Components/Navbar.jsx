@@ -6,7 +6,7 @@ import DCS from '../Dance-CompSci-logo.svg';
 export const Navbar = () => {
     return (
         <div className="navigation">
-            <img src={DCS} alt='' />
+            {/* <img src={DCS} alt='' /> */}
             <nav>
                 <ul className="menus">
                     {menuitems.map((menu, index) => {
